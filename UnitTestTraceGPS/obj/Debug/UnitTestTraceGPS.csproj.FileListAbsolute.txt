@@ -1,0 +1,7 @@
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\bin\Debug\UnitTestTraceGPS.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\bin\Debug\UnitTestTraceGPS.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\bin\Debug\TraceGPS.exe
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\bin\Debug\TraceGPS.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\obj\Debug\UnitTestTraceGPS.csprojResolveAssemblyReference.cache
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\obj\Debug\UnitTestTraceGPS.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\TP2.3\TraceGPS\UnitTestTraceGPS\obj\Debug\UnitTestTraceGPS.pdb
